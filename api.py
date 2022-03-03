@@ -1,6 +1,6 @@
 import requests
 
-token = "5250370860:AAFMzJEMoV9QANxygvSt_g-X0yWggVHYN7s"
+token = "INSERT TOKEN HERE"
 base_url = "https://api.telegram.org/bot" + token
 
 # Telegram API, see https://core.telegram.org/bots/api
