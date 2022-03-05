@@ -1,4 +1,4 @@
-def last_offset(updates: dict) -> int:
+def last_offset(updates: list[dict]) -> int:
     """ Extract last update id """
     if not updates:
         return 0
